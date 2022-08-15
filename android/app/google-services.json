@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "188654190875",
+    "project_id": "instafyp-a3f17",
+    "storage_bucket": "instafyp-a3f17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188654190875:android:58520716029d03780b93be",
+        "android_client_info": {
+          "package_name": "com.example.instaclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188654190875-fjh7de6q3tkvah254s5m4iaaoid5ae2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instaclone",
+            "certificate_hash": "1dc94a072552406337a0347604368e7134d19260"
+          }
+        },
+        {
+          "client_id": "188654190875-l2fqmt9h2qbrk0567aglv1hrbajmjfd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB-cJO-a3pMBLFuNtBEhYXdjiDyHbahPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188654190875-l2fqmt9h2qbrk0567aglv1hrbajmjfd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
